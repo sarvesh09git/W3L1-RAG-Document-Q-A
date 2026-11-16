@@ -17,7 +17,7 @@ A simple Retrieval-Augmented Generation (RAG) application built using Python and
 - LangChain
 - HuggingFace Sentence Transformers
 - FAISS
-- Groq / LLM API (if used in your implementation)
+- Groq / LLM API 
 
 ## How RAG Works
 
